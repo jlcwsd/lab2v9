@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1584045190 source:c:\users\slavi\desktop\c++\lab1\main.cpp
+	"soft.h"
+
+1584045371 c:\users\slavi\desktop\c++\lab1\soft.h
+	<iostream>
+	<cstring>
+
+1584045272 source:c:\users\slavi\desktop\c++\lab1\soft.cpp
+	"soft.h"
+
+1584045704 source:e:\c++\lab1\soft.cpp
+	"soft.h"
+
+1584045704 e:\c++\lab1\soft.h
+	<iostream>
+	<cstring>
+
+1584088338 source:d:\c++\lab1\main.cpp
+	"soft.h"
+
+1584088648 d:\c++\lab1\soft.h
+	<iostream>
+	<cstring>
+
+1584088422 source:d:\c++\lab1\soft.cpp
+	"soft.h"
+
+1584088338 source:g:\c++\lab1\main.cpp
+	"soft.h"
+
+1586507348 g:\c++\lab1\soft.h
+	<iostream>
+	<cstring>
+
+1586507238 source:g:\c++\lab1\soft.cpp
+	"soft.h"
+
